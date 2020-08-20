@@ -7,3 +7,5 @@
 ![Servidor Dns Pingando](https://github.com/Carlos15157/Servidor-WEB/blob/master/Servidor%20DNS%20Pingando.jpg)
 ### Prompt de Comando (CMD) Pingando os Servidores
 ![CMD Pingando](https://github.com/Carlos15157/Servidor-WEB/blob/master/Print%20CMD%20Pingando.jpg)
+### Testando Conexão SSH 
+![Teste SSH](https://github.com/Carlos15157/Servidor-WEB/blob/master/SSH%20WebServer.jpg)
