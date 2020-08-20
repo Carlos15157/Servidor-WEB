@@ -14,3 +14,7 @@
 ### Testando Conexão FTP 
 ![Teste FTP Admin](https://github.com/Carlos15157/Servidor-WEB/blob/master/Teste%20FTP%20Admin.jpg)
 ![Teste FTP Webmaster](https://github.com/Carlos15157/Servidor-WEB/blob/master/Teste%20FTP%20Webmaster.jpg)
+### Site Hospedado no Servidor
+![Hospedagem](https://github.com/Carlos15157/Servidor-WEB/blob/master/Site.jpg)
+### Site Hospedado no Servidor com Wordpress
+![Hospedagem](https://github.com/Carlos15157/Servidor-WEB/blob/master/Site%20Wordpress.jpg)
