@@ -11,4 +11,6 @@
 ![Teste SSH](https://github.com/Carlos15157/Servidor-WEB/blob/master/SSH%20WebServer.jpg)
 ### Testando Conexão SSH Servidor DNS
 ![Teste SSH](https://github.com/Carlos15157/Servidor-WEB/blob/master/Teste%20SSH%20DNS.jpg)
-
+### Testando Conexão FTP 
+![Teste FTP Admin](https://github.com/Carlos15157/Servidor-WEB/blob/master/Teste%20FTP%20Admin.jpg)
+![Teste FTP Webmaster](https://github.com/Carlos15157/Servidor-WEB/blob/master/Teste%20FTP%20Webmaster.jpg)
