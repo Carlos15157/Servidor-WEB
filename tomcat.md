@@ -8,3 +8,6 @@
 ![Print](https://github.com/Carlos15157/Servidor-WEB/blob/master/Hello%20tomcat%20navegador.jpg)
 ![Print](https://github.com/Carlos15157/Servidor-WEB/blob/master/hello_JSP_Navegador.jpg)
 ![Print](https://github.com/Carlos15157/Servidor-WEB/blob/master/Hello%20Servlet%20Navegador.jpg)
+## Print da conexão no Mysql
+![Print](https://github.com/Carlos15157/Servidor-WEB/blob/master/conexao_mysql.jpg)
+![Print](https://github.com/Carlos15157/Servidor-WEB/blob/master/mysql_localhost.jpg)
